@@ -1,83 +1,132 @@
-<h1 align="center">José Antonio López</h1>
+<div align="center">
 
-<p align="center">
-Full-Stack & Multicloud Developer
-</p>
+<img src="TU_BANNER_AQUI" width="100%" alt="banner"/>
 
-<p align="center">
+# José Antonio López
+
+### Full-Stack & Multicloud Developer
+
 Building scalable applications, cloud solutions and real-world software.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](TU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail)](mailto:lopezpachonjoseantonio@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](#)
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+I'm a **Full-Stack & Multicloud Developer** passionate about building modern applications, scalable systems and transforming ideas into real products.
+
+My background combines **web development, cloud technologies and software engineering**, with a strong focus on **clean architecture, APIs and modern development practices**.
+
+Currently focused on:
+
+- ☁️ Cloud Development (**AWS & Azure**)
+- ⚙️ Backend Architecture & REST APIs
+- 🌐 Full-Stack Applications
+- 🚀 Building useful software products
+- 🤖 AI & Automation
+
+📍 Based in Spain
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,js,ts,java,html,css" />
 </p>
 
+## Frontend
 
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,bootstrap" />
+</p>
 
-## 👨‍💻 Hey, I'm Jose Antonio
+## Backend
 
-I'm a Full-Stack & Multicloud Developer passionate about building modern applications and turning ideas into real products.
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs" />
+</p>
 
-My background combines web development, cloud technologies and scalable software solutions, with a strong focus on clean architecture and continuous learning.
+## Cloud & DevOps
 
-## About Me
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github" />
+</p>
 
-- 🎓 Full Stack & Multicloud background
-- ☁️ Interested in Cloud Development (AWS & Azure)
-- ⚙️ Focused on Backend Systems & REST APIs
-- 🌐 Building modern Full-Stack Applications
-- 🚀 Passionate about creating useful products
-- 📍 Based in Spain
+## Databases
 
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
+---
 
-## 🛠️ Tech Stack
+# 🚀 Featured Projects
 
-### Languages
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+### 🔹 Pawify
+> Digital solution focused on improving and optimizing processes.
 
-### Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)
-![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vuedotjs)
+**Tech Stack:** `.NET` `React` `MongoDB` `REST APIs`
 
-### Backend
-![.NET](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=dotnet)
-![REST API](https://img.shields.io/badge/API-REST-black?style=for-the-badge)
+---
 
-### Cloud
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoftazure)
+### 🔹 Full-Stack Applications
+> End-to-end applications with frontend, backend and database integration.
 
+**Tech Stack:** `React` `Angular` `Vue` `.NET`
 
+---
 
-## 📈 Journey
+### 🔹 Cloud Projects
+> Applications deployed and managed using cloud infrastructure.
 
-**2026** → Master in Full Stack & Multicloud Development  
-**2025** → Higher Degree in Web Application Development (DAW)  
-**2024** → Full-Stack Collaboration with NGO  
-**2023** → Administrative Management Degree
+**Tech Stack:** `AWS` `Azure` `Docker`
 
+---
 
+# 📈 Journey
 
-## 🏆 Certifications
+```txt
+2026 → Master's Degree in Full Stack & Multicloud Development
+2025 → Higher Degree in Web Application Development (DAW)
+2024 → Full-Stack Collaboration for NGO Digitalization
+2023 → Administrative Management Degree
+🏆 Certifications
+☁️ AWS Academy Graduate – Cloud Developing
+☁️ Microsoft Azure (AZ-204)
+⚙️ Microsoft Power Platform (PL-400)
+🗄️ MongoDB Overview: Core Concepts & Architecture
+📊 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseAntonioLP03&show_icons=true&theme=github_dark&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAntonioLP03&layout=compact&theme=github_dark&hide_border=true"/> </div>
+🔥 Contribution Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=JoseAntonioLP03&theme=github-dark-blue&hide_border=true"/> </div>
+🎯 Current Focus
+Building scalable Full-Stack applications
+Improving cloud architecture skills
+Developing APIs and backend systems
+Learning more about AI & automation
+Creating impactful software products
+🌍 Languages
+🇪🇸 Spanish — Native
+🇬🇧 English — B2
+📫 Contact
 
-- ☁️ AWS Academy Graduate – Cloud Developing
-- ☁️ Microsoft Azure (AZ-204)
-- ⚙️ Power Platform (PL-400)
-- 🗄️ MongoDB Overview: Core Concepts & Architecture
+📧 Email: lopezpachonjoseantonio@gmail.com
 
+💼 LinkedIn: TU_LINKEDIN
 
+🌐 Portfolio: Coming Soon
 
-## 🎯 Current Focus
+<div align="center">
+Thanks for visiting my profile 🚀
 
-- Building Full-Stack applications
-- Improving Cloud skills (AWS & Azure)
-- Backend architecture & APIs
-- AI and automation systems
+Always building, always learning.
 
-
-
-## 📫 Contact
-
-- LinkedIn
-- Email
-- Portfolio (coming soon)
+</div> ```
