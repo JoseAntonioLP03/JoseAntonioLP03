@@ -105,10 +105,11 @@ Cloud-native applications deployed and managed with scalable infrastructure.
 
 # 🏆 Certifications
 
-- ☁️ AWS Academy Graduate – Cloud Developing
+- ☁️ Amazon Web Services (DVA-C02)
 - ☁️ Microsoft Azure (AZ-204)
 - ⚙️ Microsoft Power Platform (PL-400)
 - 🗄️ MongoDB Overview: Core Concepts & Architecture
+- ☁️ AWS Academy Graduate – Cloud Developing
 
 ---
 
