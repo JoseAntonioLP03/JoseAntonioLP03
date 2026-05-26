@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="TU_BANNER_URL" width="100%" alt="Jose Antonio Banner"/>
-
 # José Antonio López
 
 ### Full-Stack & Multicloud Developer
@@ -9,7 +5,7 @@
 Building scalable applications, cloud solutions and real-world software.
 
 <p align="center">
-  <a href="TU_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/jose-antonio-lópez-pachón">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-black?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:lopezpachonjoseantonio@gmail.com">
@@ -116,27 +112,6 @@ Cloud-native applications deployed and managed with scalable infrastructure.
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseAntonioLP03&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAntonioLP03&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=JoseAntonioLP03&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
 
 # 🎯 Current Focus
 
@@ -159,9 +134,8 @@ Cloud-native applications deployed and managed with scalable infrastructure.
 
 📧 **Email:** lopezpachonjoseantonio@gmail.com
 
-💼 **LinkedIn:** TU_LINKEDIN_URL
+💼 **LinkedIn:** www.linkedin.com/in/jose-antonio-lópez-pachón
 
-🌐 **Portfolio:** Coming Soon
 
 ---
 
