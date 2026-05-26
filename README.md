@@ -4,15 +4,6 @@
 
 Building scalable applications, cloud solutions and real-world software.
 
-<p align="center">
-  <a href="www.linkedin.com/in/jose-antonio-lópez-pachón">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-black?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:lopezpachonjoseantonio@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
 </div>
 
 ---
