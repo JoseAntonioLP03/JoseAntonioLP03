@@ -26,6 +26,14 @@ My background combines **web development, cloud technologies and software engine
 
 ---
 
+# 📫 Contact
+
+📧 **Email:** lopezpachonjoseantonio@gmail.com
+
+💼 **LinkedIn:** www.linkedin.com/in/jose-antonio-lópez-pachón
+
+---
+
 # 🛠️ Tech Stack
 
 ### Languages
@@ -57,29 +65,6 @@ My background combines **web development, cloud technologies and software engine
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
-
----
-
-# 🚀 Featured Projects
-
-### 🔹 Pawify
-Digital solution focused on improving and optimizing processes and digital experiences.
-
-**Tech Stack:** `.NET` `React` `MongoDB` `REST APIs`
-
----
-
-### 🔹 Full-Stack Applications
-Development of modern web applications with frontend, backend and database integration.
-
-**Tech Stack:** `React` `Angular` `Vue` `.NET`
-
----
-
-### 🔹 Cloud Projects
-Cloud-native applications deployed and managed with scalable infrastructure.
-
-**Tech Stack:** `AWS` `Azure` `Docker`
 
 ---
 
@@ -122,14 +107,7 @@ Cloud-native applications deployed and managed with scalable infrastructure.
 
 ---
 
-# 📫 Contact
 
-📧 **Email:** lopezpachonjoseantonio@gmail.com
-
-💼 **LinkedIn:** www.linkedin.com/in/jose-antonio-lópez-pachón
-
-
----
 
 <div align="center">
 
